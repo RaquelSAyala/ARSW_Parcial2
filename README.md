@@ -24,7 +24,9 @@ curl -i -X PUT  http://localhost:8080/blueprints/john/kitchen/points -H 'Content
 ```
 
 Abrir en navegador:  
-- Swagger UI: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)  
+- Swagger UI: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+  <img width="1776" height="833" alt="image" src="https://github.com/user-attachments/assets/9176592d-f9a0-4dad-bd12-33d9048884a6" />
+
 - OpenAPI JSON: [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)  
 
 ---
